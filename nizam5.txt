@@ -1,3 +1,4 @@
 first line from child3
 second line from branch child5
 third line from child3 branch
+rebased with master
